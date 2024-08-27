@@ -1,0 +1,10 @@
+sapato = 34.50
+tênis = 29.99
+sandália = 19.90
+camisa = 25.00
+calça = 45.70
+jaqueta = 49.99
+boné = 15.50
+meia = 7.80
+cinto = 12.99
+óculos = 38.40
